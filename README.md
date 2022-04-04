@@ -35,9 +35,13 @@ All that said, It's my hope you would find great value from connecting with me o
 - 🌱 I’m currently learning Python
 
 - 👯 I’m looking to collaborate on ***_FilOS_Trigger_***
+- 🤔 I’m looking for help with  - Sponsoring my next visit to the dentist, currently experiencing excruciating night time toothaches.
+
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
-- 📫 How to reach me: Follow and send me message via twitter, @twitter
+- 📫 How to reach me: Follow and send me messages via twitter, @huffypiet
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I had once upon a time, wanted to be a Police Officer.
+
+Don't be a stranger send me, a "Hi", let's connect.
 
