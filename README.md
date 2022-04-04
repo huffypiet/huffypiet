@@ -14,21 +14,25 @@ All that said, It's my hope you would find great value from connecting with me o
 
 ### My Tech Stack
 - HTML5+/CSS3+
+- Javascript /React /Vue / Jquery
+ - PHP / WordPress / Laravel
+ - Ruby
+ - C#
+ - Java / Kotlin
 
-### Teaching Beginners to Code
+### Whitespace (Teaching Beginners to Code)
+
+- Cooking courses to teach beginners to programming and coding 
+- Share some of the safe and best practices known to me
+- Sharing coding challenges with beginners
+- And code reviews
 
 
-
-
-
-
-
-<!--
 **huffypiet/huffypiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+#### :: Announcement
+- 🔭 I’m currently working on also working on a toy side project called ***_FilOS_Trigger_*** as a tiny javascript framework for triggering event upon motion or interaction.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -36,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
