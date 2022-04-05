@@ -17,7 +17,7 @@ All that said, It's my hope you would find great value from connecting with me o
 - Javascript /React /Vue / Jquery
  - PHP / WordPress / Laravel
  - Ruby
- - C#
+ - C# /C++
  - Java / Kotlin
  - Bash
  - Python
