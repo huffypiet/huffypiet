@@ -12,7 +12,7 @@ Today, I'm happy to have learnt to code albeit self-taught, I used a ton of help
 
 All that said, It's my hope you would find great value from connecting with me or contribute, or join me let's create value, let's brighten the web and make it an awesome place to hang out.
 
-#### My Tech Stack
+#### :: Tech Stack
 - HTML5+/CSS3+
 - Javascript /React /Vue / Jquery
  - PHP / WordPress / Laravel
@@ -22,7 +22,7 @@ All that said, It's my hope you would find great value from connecting with me o
  - Bash
  - Python
 
-#### Whitespace (Teaching Beginners to Code)
+#### :: [***Whitespace (Teaching Beginners to Code)***](https://github.com/huffypiet/whitespace)
 
 - Cooking courses to teach beginners to code from the basics. 
 - Share some of the safe and best practices known to me.
