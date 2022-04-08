@@ -30,11 +30,11 @@ All that said, It's my hope you would find great value from connecting with me o
 - And code reviews.
 
 #### :: Announcements
-- 🔭 I’m currently working on also working on a toy side project called ***__Felios.js__*** as a tiny javascript framework for triggering event upon motion or interaction.
+- 🔭 I’m currently working on also working on a toy side project called [!***__Felios.js__***][#] as a tiny javascript framework for triggering event upon motion or interaction.
 
 - 🌱 I’m currently learning Python
 
-- 👯 I’m looking to collaborate on ***__Felios.js__***[!https://github.com/huffypiet/felios.js]
+- 👯 I’m looking to collaborate on [!***__Felios.js__***][https://github.com/huffypiet/felios.js]
 - 🤔 I’m looking for help with  - Sponsoring my next visit to the dentist, currently experiencing excruciating night time toothaches.
 
 <!-- - 🤔 I’m looking for help with ... 
