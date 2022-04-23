@@ -36,7 +36,9 @@ All that said, It's my hope you would find great value from connecting with me o
 
 - 👯 I’m welcomming collaborators on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
 
-- 🤔 I’m looking for help with  - Sponsoring my next visit to the dentist, currently experiencing excruciating night time toothaches, if you wish to help, you could [paypal.me/huffypiet](https://paypal.me/huffypiet)
+- 🤔 I’m looking for help with my next visit to the dentist, currently experiencing excruciating night time toothaches, if you wish to help, you could    send in a $1 or $30 via [Paypal](https://paypal.me/huffypiet).
+
+NB: You will be enlisted on here for your contribution along with amount contributed. You may also inform me to keep you anonymous if that may be what you want. And also to be one of the few first people to be kept informed about any new developments I make.
 
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
