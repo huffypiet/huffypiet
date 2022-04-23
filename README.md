@@ -42,7 +42,7 @@ All that said, It's my hope you would find great value from connecting with me o
 
 - 👯 I’m welcomming collaborators on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
 
-- 🤔 I’m looking for help with my next visit to the dentist, among other health needs, currently experiencing excruciating night time toothaches, if you wish to help, you could donate $1,$3,$5 - $700 via [Paypal/@HuffyPiet](https://paypal.me/huffypiet).
+- 🤔 I’m looking for help with my next visit to the dentist, among other health needs, currently experiencing excruciating night time toothaches, if you wish to help, you could donate via [![paypal.me/huffypiet](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/huffypiet).
 
       NB: You will be enlisted on here for your contribution along with amount contributed. You could inform me to keep you anonymous if that may be what  you want. But by virtue of your financial contributions you may also become one of the very few exclusive people to be kept informed about any new developments I commence or complete. Not only that but also you will be included as first users, ( i.e. gain automatic membership to my virtual family ) of any of my public projects when they do go live, and updated.
 
