@@ -34,14 +34,15 @@ All that said, It's my hope you would find great value from connecting with me o
 
 - 🌱 I’m currently learning Python
 
-- 👯 I’m looking to collaborate on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
-- 🤔 I’m looking for help with  - Sponsoring my next visit to the dentist, currently experiencing excruciating night time toothaches.
+- 👯 I’m welcomming collaborators on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
+
+- 🤔 I’m looking for help with  - Sponsoring my next visit to the dentist, currently experiencing excruciating night time toothaches, if you wish to help, you could [paypal.me/huffypiet](https://paypal.me/huffypiet)
 
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
 - 📫 How to reach me: Follow and send me messages via twitter, @huffypiet
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I had once upon a time, wanted to be a Police Officer.
+- ⚡ Fun fact: I had once upon a time, wanted to become a Police Officer, until my hobbies took hold of me.
 
 Don't be a stranger send me, a "Hi", let's connect.
 
