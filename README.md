@@ -12,6 +12,8 @@ Today, I'm happy to have learnt to code albeit self-taught, I used a ton of help
 
 All that said, It's my hope you would find great value from connecting with me or contribute, or join me let's create value, let's brighten the web and make it an awesome place to hang out.
 
+![](https://github-readme-stats.vercel.app/api?username=huffypiet)
+
 #### :: Tech Stack
 - HTML5+/CSS3+
 - Javascript /React /Vue / Jquery
@@ -23,7 +25,7 @@ All that said, It's my hope you would find great value from connecting with me o
  - Python
 
 
-![](https://github-readme-stats.vercel.app/api?username=huffypiet)
+
 #### :: [***Whitespace (Teaching Beginners to Code)***](https://github.com/huffypiet/whitespace)
 
 - Cooking courses to teach beginners to code from the basics. 
