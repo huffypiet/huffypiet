@@ -12,7 +12,9 @@ Today, I'm happy to have learnt to code albeit self-taught, I used a ton of help
 
 All that said, It's my hope you would find great value from connecting with me or contribute, or join me let's create value, let's brighten the web and make it an awesome place to hang out.
 
-![](https://github-readme-stats.vercel.app/api?username=huffypiet)
+![](https://github-readme-stats.vercel.app/api?username=huffypiet)\
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huffypiet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :: Tech Stack
 - HTML5+/CSS3+
