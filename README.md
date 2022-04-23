@@ -22,6 +22,8 @@ All that said, It's my hope you would find great value from connecting with me o
  - Bash
  - Python
 
+
+![](https://github-readme-stats.vercel.app/api?username=huffypiet)
 #### :: [***Whitespace (Teaching Beginners to Code)***](https://github.com/huffypiet/whitespace)
 
 - Cooking courses to teach beginners to code from the basics. 
