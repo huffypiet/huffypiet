@@ -30,13 +30,13 @@ All that said, It's my hope you would find great value from connecting with me o
 
 
 
-#### :: [***Whitespace (Teaching Beginners to Code)***](https://github.com/huffypiet/whitespace)
+<!-- #### :: [***Whitespace (Teaching Beginners to Code)***](https://github.com/huffypiet/whitespace)
 
 - Cooking courses to teach beginners to code from the basics. 
 - Share some of the safe and best practices known to me.
 - Sharing coding challenges with beginners.
 - And code reviews.
-
+-->
 #### :: Announcements
 - 🔭 I’m currently working on also working on a toy side project called [***__Felios.js__***](https://github.com/huffypiet/felios.js) as a tiny javascript framework for triggering event upon motion or interaction.
 
