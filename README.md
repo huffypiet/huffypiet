@@ -52,7 +52,4 @@ All that said, It's my hope you would find great value from connecting with me o
 - 💬 Ask me about ...-->
 - 📫 How to reach me: Follow and send me messages via twitter, @huffypiet
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I had once upon a time, wanted to become a Police Officer, until my hobbies took hold of me.
-
-Don't be a stranger send me, a "Hi", let's connect.
-
+- ⚡ Fun fact: ".."
