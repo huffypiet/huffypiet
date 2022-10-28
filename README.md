@@ -44,6 +44,8 @@ All that said, It's my hope you would find great value from connecting with me o
 
 - 👯 I’m welcomming collaborators on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
 
+#### :: Favorite Quote
+
 **__"Always remember wherever there is a will there is a way"__**
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
