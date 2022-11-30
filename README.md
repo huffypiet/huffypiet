@@ -45,8 +45,11 @@ All that said, It's my hope you would find great value from connecting with me o
 #### :: Favorite Quote
 
 **__"Always remember wherever there is a will there is a way"__**
+
+## Currently
+
 - 🤔 I’m looking for help with posting on social media. 
 - 💬 Ask me about anything.
-- 📫 How to reach me: Follow and send me messages via twitter, @huffypiet or t.me/@huffypiet
+- 📫 How to reach me: Follow and send me messages via twitter, https://twitter.com/huffypiet or telegram https://t.me/@huffypiet
 - 😄 Pronouns: He/Him
 
