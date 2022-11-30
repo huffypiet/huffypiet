@@ -38,17 +38,15 @@ All that said, It's my hope you would find great value from connecting with me o
 - And code reviews.
 -->
 #### :: Announcements
-- 🔭 I’m currently working on also working on a toy side project called [***__Felios.js__***](https://github.com/huffypiet/felios.js) as a tiny javascript framework for triggering event upon motion or interaction.
+- 🔭 I’m working on working on a side project called [***__Felios.js__***](https://huffypiet.github.io/felios.js/src) as a tiny javascript framework for triggering event upon motion or interaction.
 
-- 🌱 I’m currently learning Python
-
-- 👯 I’m welcomming collaborators on [***__Felios.js__***](https://github.com/huffypiet/felios.js)
+- 🌱 And learning Python
 
 #### :: Favorite Quote
 
 **__"Always remember wherever there is a will there is a way"__**
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...-->
-- 📫 How to reach me: Follow and send me messages via twitter, @huffypiet
+- 🤔 I’m looking for help with posting on social media. 
+- 💬 Ask me about anything.
+- 📫 How to reach me: Follow and send me messages via twitter, @huffypiet or t.me/@huffypiet
 - 😄 Pronouns: He/Him
 
