@@ -15,8 +15,7 @@ All that said, It's my hope you would find great value from connecting with me o
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=huffypiet&show_icons=true)
-
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huffypiet&layout=compact)](https://github.com/huffypiet/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huffypiet&layout=compact)](https://github.com/huffypiet/github-readme-stats)-->
 
 #### :: Tech Stack
 - HTML5+/CSS3+
