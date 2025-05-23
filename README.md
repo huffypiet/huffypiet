@@ -18,7 +18,7 @@ All that said, It's my hope you would find great value from connecting with me o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huffypiet&layout=compact)](https://github.com/huffypiet/github-readme-stats)
 
 #### :: Tech Stack
-- HTML5+/CSS3+
+- HTML5+/CSS3+378020
 - Javascript /React /Vue / Jquery
  - PHP / WordPress / Laravel
  - Ruby
@@ -37,7 +37,7 @@ All that said, It's my hope you would find great value from connecting with me o
 - And code reviews.
 -->
 #### :: Announcements
-- 🔭 I’m working on working on a side project called [***__Felios.js__***](https://huffypiet.github.io/felios.js/src) as a tiny javascript framework for triggering event upon motion or interaction.
+- 🔭 I’m working on working on a side project called [***__Felios.js__***](https://huffypiet.github.io/felios.js/) as a tiny javascript framework for triggering event upon motion or interaction.
 
 - 🌱 And learning Python
 
