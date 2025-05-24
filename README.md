@@ -38,11 +38,9 @@ All that said, It's my hope you would find great value from connecting with me o
 -->
 #### :: Announcements
 - 🔭 I’m working on working on a side project called [***__Felios.js__***](https://huffypiet.github.io/felios.js/) as a tiny javascript framework for triggering event upon motion or interaction.
-
 - 🌱 And learning Python
 
 #### :: Favorite Quote
-
 **__"Always remember wherever there is a will there is a way"__**
 
 ## Currently
